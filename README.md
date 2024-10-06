@@ -36,3 +36,7 @@ Discussion on how to approach scraping projects with a focus on sustainability a
 4. 	Mastering Data Analysis: Pandas and NumPy Essentials:
 	
 This workshop is designed to equip learners with powerful tools for data analysis in Python. Participants will delve into the world of NumPy, exploring its efficient arrays and array operations, which form the backbone of numerical computing in Python. The workshop then shifts to Pandas, where learners will get hands-on experience with its fundamental data structures - Series andDataFrame. This comprehensive session is ideal for anyone looking to enhance their data analysis skills, offering the tools needed to unlock insights from data with efficiency and precision.
+
+5. Data Management with Python Workshop (SQL and NoSQL)
+
+The workshop will equip participants with the skills to effectively interact with both SQL and NoSQL databases using Python, highlighting the appropriate use cases and best practices for each.
